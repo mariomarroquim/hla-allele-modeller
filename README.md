@@ -4,7 +4,7 @@ This script builds three-dimensional models of the most [common and well-documen
 
 ## Instructions
 
-Pre-built structures are at the [output](https://github.com/mariomarroquim/hla-modeller/tree/main/output) folder. To regenerate models after a new IPD-IMGT/HLA release, run `bundle install && ruby run.rb`. To view a model, download its PDB file from output and open it in a viewer such as [Mol*](https://molstar.org/viewer).
+Structures are at the [output](https://github.com/mariomarroquim/hla-modeller/tree/main/output) folder. To regenerate models after an IPD-IMGT/HLA release, run `bundle install && ruby run.rb`. To view a model, download its PDB file from output and open it in a viewer such as [Mol*](https://molstar.org/viewer).
 
 ## Support
 
